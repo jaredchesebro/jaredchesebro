@@ -1,7 +1,7 @@
 # Work Portfolio
 ## Craft CMS
 - [Kraemer Manufacturing](https://kraemermanufacturing.com)
-- [Hadley Construction](https://hadleyconstruction.com)
+- [CHIP](https://chiphousing.org)
 - [In Motion Fitness](https://inmotionfitness.com)
 
 ## Statamic
@@ -13,6 +13,7 @@
 - [Steps To Quality](https://stepstoquality.com)
 - [Yes To Yuba](https://yestoyuba.com)
 - [Precision Machine, Inc.](https://builtbyprecision.com)
+- [Hadley Construction](https://hadleyconstruction.com)
 - [Golden State Farm Credit](https://goldenstatefarmcredit.com)
 - [MC2 Design Group, Inc.](https://mc2design.com)
 - [Bella Sun Luci](https://bellasunluci.com)
