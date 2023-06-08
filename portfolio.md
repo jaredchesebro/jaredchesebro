@@ -10,7 +10,7 @@
 - [Challenge UCSC](https://challengeucsc.com)
 
 ## ExpressionEngine
-- [Steps To Quality](https://stepstoquality.com)
+- [Steps To Quality](https://stepstoquality.org)
 - [Yes To Yuba](https://yestoyuba.com)
 - [Precision Machine, Inc.](https://builtbyprecision.com)
 - [Hadley Construction](https://hadleyconstruction.com)
