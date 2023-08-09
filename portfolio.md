@@ -27,4 +27,3 @@
 - [Tri /// Path](https://tripath.us)
 - [Crush Restaurant](https://chicocrush.com)
 - [Ag Land Brokers](https://aglandbrokers.com)
-- 
