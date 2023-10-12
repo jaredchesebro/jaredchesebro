@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jared Chesebro
 ======================================================================================================================================
-Web Developer @ DangGood.
+Web Developer @ DuBose Web Group, LLC.
 ---------------------------------
-I've been building websites on ExpressionEngine, Craft CMS, and Statamic for more than 6 years.
+I've been building websites on ExpressionEngine, Craft CMS, and Statamic for more than 7 years.
 * 🌍  I'm based in Northern California
 * 🤝  I'm open to collaborating on Craft CMS, ExpressionEngine, and Statamic websites
 * ⚡  I am an interested in learning DevOps and optimizing workflows
